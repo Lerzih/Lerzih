@@ -1,7 +1,12 @@
-### 💻 Alexis Francisco Díaz Fajardo
+# 💻 Alexis Francisco Díaz Fajardo
 
-# Hello there! Welcome to my profile!
+> "First, solve the problem. Then, write the code." -- John Johnson
 
+#### 👋 Hello there! Welcome to my profile!
+
+I am an enthusiastic boy, interested and focused on web development and product design.
+
+As of today, Im a Software Developer on PricewaterhouseCoopers(ES) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PricewaterhouseCoopers_Logo.svg/800px-PricewaterhouseCoopers_Logo.svg.png" alt="PwC" width="30" />.
 <!--
 **Lerzih/Lerzih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
