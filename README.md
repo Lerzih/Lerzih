@@ -6,7 +6,7 @@
 
 I am an enthusiastic boy, interested and focused on web development and product design.
 
-As of today, Im a Software Developer on PricewaterhouseCoopers(ES) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PricewaterhouseCoopers_Logo.svg/800px-PricewaterhouseCoopers_Logo.svg.png" alt="PwC" width="30" />.
+As of today, Im an Appian Developer on NTT Data Spain.
 <!--
 **Lerzih/Lerzih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
